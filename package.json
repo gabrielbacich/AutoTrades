@@ -1,0 +1,30 @@
+{
+  "name": "steam-trade-farm",
+  "version": "2.0.0",
+  "description": "Automated Steam trading bot that exchanges items between two accounts to increase trade count statistics",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^2.12.2",
+    "steam-user": "^5.2.3",
+    "steamcommunity": "^3.49.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js",
+    "test-config": "node test-config.js",
+    "setup": "cp env.example .env && echo '.env file created! Edit it with your credentials.'",
+    "check": "node test-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gunthersuper/node-steam-trade-farm-replit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gunthersuper/node-steam-trade-farm-replit/issues"
+  },
+  "homepage": "https://github.com/Gunthersuper/node-steam-trade-farm-replit#readme"
+}
