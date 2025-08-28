@@ -58,7 +58,7 @@
 
 ### Environment Variables
 
-Rename `env.example` to `.env` and fill in your credentials:
+Enter `env.example` and fill in your credentials:
 
 ```bash
 # Account 1 Configuration
