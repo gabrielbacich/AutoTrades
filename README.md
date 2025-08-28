@@ -58,7 +58,7 @@
 
 ### Environment Variables
 
-Enter `env.example` and fill in your credentials:
+Go to `env.example` and fill in your credentials:
 
 ```bash
 # Account 1 Configuration
@@ -132,13 +132,6 @@ PORT=8080
 ```bash
 npm start
 ```
-
-### Cloud Platforms
-The bot includes a keep-alive server on port 8080 for platforms like:
-- Heroku
-- Railway
-- Render
-- Google Cloud Run
 
 ## 🐛 Troubleshooting
 
