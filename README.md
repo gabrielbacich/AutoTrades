@@ -28,8 +28,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd steam-trade-farm
+   git clone https://github.com/gabrielbacich/AutoTrades
+   cd AutoTrades
    ```
 
 2. **Install dependencies**
