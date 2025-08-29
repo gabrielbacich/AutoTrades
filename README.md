@@ -160,7 +160,7 @@ npm start
 ### Debug Mode
 Set environment variable for detailed logging:
 ```bash
-DEBUG=steam-trade-farm npm start
+DEBUG=AutoTrades npm start
 ```
 
 ## ⚠️ Important Warnings
