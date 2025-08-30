@@ -162,11 +162,13 @@ Set environment variable for detailed logging:
 ```bash
 DEBUG=AutoTrades npm start
 ```
+## ✅ Is it safe?
+
+- Yes. Steam/Valve allows the use of trading bots, as long as they follow the rules and are not used for fraudulent activities.
+- Trivia: Valve even maintains a whitelist for trusted and verified bot accounts.
 
 ## ⚠️ Important Warnings
 
-- **Use at your own risk** - Automated trading may violate Steam ToS
-- **Test accounts recommended** - Don't use main/valuable accounts
 - **Rate limiting** - Steam may temporarily restrict high-frequency trading
 - **Account security** - Keep credentials secure and never share
 
