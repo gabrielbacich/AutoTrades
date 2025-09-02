@@ -196,3 +196,5 @@ DEBUG=AutoTrades npm start
 ---
 
 **⚡ Built for Node.js | Updated 2025 | Use Responsibly**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/gabrielbacich/AutoTrades/blob/main/LICENSE)
